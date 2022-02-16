@@ -22,34 +22,20 @@
 
 ```scss
 <style>
-
-  .preloader {
-
-  position: fixed;
-
-  left: 0;
-
-  top: 0;
-
-  z-index: 999;
-
-  width: 100%;
-
-  height: 100%;
-
-  background: #fff url("https://heny007.github.io/loading-45.gif");
-
-  background-repeat: no-repeat;
-
-  background-position: center center;
-
-  background-size: contain;
-
-  background-attachment: fixed;
-
-  }
-
-  </style>
+.preloader {
+position: fixed;
+left: 0;
+top: 0;
+z-index: 999;
+width: 100%;
+height: 100%;
+background: #fff url("https://heny007.github.io/loading-45.gif");
+background-repeat: no-repeat;
+background-position: center center;
+background-size: contain;
+background-attachment: fixed;
+}
+</style>
 ```
 ## الخطوة الثالثة 
 ابحث في القالب عن وسم 
